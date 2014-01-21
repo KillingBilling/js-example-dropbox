@@ -1,0 +1,30 @@
+{
+  "name": "js-example",
+  "version": "0.1.0",
+  "description": "Example KillingBilling project in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KillingBilling/js-example.git"
+  },
+  "keywords": [
+    "KillingBilling",
+    "billing",
+    "app",
+    "support",
+    "system",
+    "saas",
+    "paas",
+    "accounting",
+    "cloud"
+  ],
+  "author": "Ivan Mikushin (https://twitter.com/imikushin)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KillingBilling/js-example/issues"
+  },
+  "homepage": "https://github.com/KillingBilling/js-example"
+}
