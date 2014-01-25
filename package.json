@@ -1,5 +1,5 @@
 {
-  "name": "js-example",
+  "name": "js-example-dropbox",
   "version": "0.1.0",
   "description": "Example KillingBilling project in JavaScript.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/KillingBilling/kbilling-js-example.git"
+    "url": "git://github.com/KillingBilling/js-example-dropbox.git"
   },
   "keywords": [
     "KillingBilling",
     "billing",
+    "example",
     "app",
     "support",
-    "system",
     "saas",
     "paas",
     "accounting",
@@ -24,9 +24,9 @@
   "author": "Ivan Mikushin (https://twitter.com/imikushin)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KillingBilling/kbilling-js-example/issues"
+    "url": "https://github.com/KillingBilling/js-example-dropbox/issues"
   },
-  "homepage": "https://github.com/KillingBilling/kbilling-js-example",
+  "homepage": "https://github.com/KillingBilling/js-example-dropbox",
   "dependencies": {
     "bignumber.js": "~1.3.0"
   }
