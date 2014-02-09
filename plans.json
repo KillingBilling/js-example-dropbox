@@ -1,7 +1,7 @@
 {
   "2014-01-01T00:00:00.000Z": {
-    "Basic": "./lib/basic.js",
-    "Pro": "./lib/pro.js",
-    "Business": "./lib/business.js"
+    "Basic": "./src/basic.js",
+    "Pro": "./src/pro.js",
+    "Business": "./src/business.js"
   }
 }
