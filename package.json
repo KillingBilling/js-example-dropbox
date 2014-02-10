@@ -2,23 +2,21 @@
   "name": "js-example-dropbox",
   "version": "0.1.0",
   "description": "Example KillingBilling project in JavaScript.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "plans.json",
   "repository": {
     "type": "git",
-    "url": "git://github.com/KillingBilling/js-example-dropbox.git"
+    "url": "https://github.com/KillingBilling/js-example-dropbox.git"
   },
   "keywords": [
     "KillingBilling",
     "billing",
+    "accounting",
     "example",
+    "plan",
     "app",
     "support",
     "saas",
     "paas",
-    "accounting",
     "cloud"
   ],
   "author": "Ivan Mikushin (https://twitter.com/imikushin)",
