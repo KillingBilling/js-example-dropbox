@@ -15,6 +15,7 @@ module.exports = {
 
   cycles: {
     $subscription: {
+      $begin: ['monthly'],
       storageUsedMb: {},
       usd: {}
     },
